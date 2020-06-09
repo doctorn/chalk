@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SubstitutionResult",""]],"fn":[["into_ex_clause","Helper function"]],"mod":[["aggregate",""],["resolvent",""]],"struct":[["MayInvalidate",""],["SlgContext",""],["SlgContextOps",""],["TruncatingInferenceTable",""]],"trait":[["SubstitutionExt",""]]});
